@@ -250,9 +250,7 @@ GET <your_metric_name>
 - Now select __Metric Browser__>__Halt_total__ then select __your metric/job__.
 file:///home/divi/Pictures/grafana.png![image](https://user-images.githubusercontent.com/84952780/174129103-674f4962-555e-42ad-991f-1a19d06c43e4.png)
 file:///home/divi/Pictures/grafana1.png![image](https://user-images.githubusercontent.com/84952780/174129139-455fc0a9-feb7-487e-b070-9e7009cf126d.png)
- 
- # FINAL PROJECT
-![image](https://user-images.githubusercontent.com/84952780/173678644-d9f7fb6a-b36e-4b4c-9751-8affe7ae302e.png)
+
 
 
 # OPEN CV
