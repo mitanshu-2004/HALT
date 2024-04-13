@@ -48,7 +48,7 @@ sudo apt install redis-server
 ```
 - ### OpenCV and YOLOV8
 - ![image](https://github.com/mitanshu-2004/HALT/blob/main/Car%20Detection%20Images/Lane%201/cars.png)
-- ![image](https://github.com/mitanshu-2004/HALT/blob/main/Car%20Detection%20Images/Lane%201/cars.png)
+- ![image]([https://github.com/mitanshu-2004/HALT/blob/main/Car%20Detection%20Images/Lane%201/cars.png](https://github.com/mitanshu-2004/HALT/blob/main/Car%20Detection%20Images/Lane%201/detected%20cars.png))
 - ### Installing Grafana
 
 ```bash
