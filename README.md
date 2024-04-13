@@ -262,7 +262,7 @@ With the boom of artificial intelligence and machine learning, this project can 
   cv2.imread()
   cv2.imshow() 
 
-# FINAL PROJECT 
+
 
 
 
