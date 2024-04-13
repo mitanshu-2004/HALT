@@ -256,8 +256,9 @@ file:///home/divi/Pictures/grafana1.png![image](https://user-images.githubuserco
 # OPEN CV
 With the boom of artificial intelligence and machine learning, this project can be upgraded to the next level with the integration of computer vision (OpenCV). OpenCV works on image capturing technology and calculating the contour area for every frame and passing it on further. Based on the area of contours we can further manipulate the duration of green signal for subsequent cycles
 ![6](https://user-images.githubusercontent.com/84952780/170505446-30d74291-6b9c-4d08-a657-64af858bcfe1.png)
-#FINAL PROJECT
 
+#FINAL PROJECT
+![image](https://github.com/mitanshu-2004/HALT/blob/main/final%20project.jpg)
 # STEPS
 ```bash
   pip install opencv
